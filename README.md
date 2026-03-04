@@ -5,6 +5,7 @@
 - <b>Amazon Web Services (AWS)</b>
   - [Multi-Tier Web Application Infrastructure](https://github.com/shawnmosby225/Multi_Tier_Web_Application_Infrastructure/tree/main)
   - [Automated Multi-Tiered S3 Data Protection Pipeline](https://github.com/Lew228/AWS_Centralized_Backup_Service)
+  -   - [Resilient AWS Architecture with Automated Observability & Incident Response](https://github.com/shawnmosby225/Resilient-AWS-Architecture-with-Automated-Observability-Incident-Response)
 
 
 
